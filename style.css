@@ -17,7 +17,7 @@ body {
 }
 
 .pic {
- 
+
   padding-left: 50px;
 
 }
@@ -107,6 +107,6 @@ footer {
   background-color: rgba(221, 160, 221, 0.61);
   width           : 30%;
   margin          : 5%;
-  padding: 10px;
-  border-radius: 10px;
+  padding         : 10px;
+  border-radius   : 10px;
 }
