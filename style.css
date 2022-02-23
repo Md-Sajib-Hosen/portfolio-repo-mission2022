@@ -1,3 +1,53 @@
-h1 {
-  color: greenyellow;
+body {
+  margin: none;
+}
+.orange-color-text {
+  color: #ffad5a;
+}
+.link-button {
+  text-decoration: none;
+  padding: 5px 20px;
+  color: white;
+
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+}
+.profile-pic {
+  width: 50%;
+}
+.profile-pic img {
+  width: 40%;
+}
+.main-section {
+  display: flex;
+}
+.stay-focused {
+  width: 50%;
+  text-align: justify;
+}
+
+/* mission-section */
+.mission-headline {
+  text-align: center;
+}
+
+.illustrator {
+  width: 10%;
+}
+.mission-section {
+  display: flex;
+}
+.mission-iteams {
+  padding: 20px;
+  border-radius: 5px;
+
+  margin-left: 30px;
+}
+.mission-bg {
+  background-color: rgba(25, 200, 219, 0.1);
+}
+.vission-bg {
+  background-color: rgba(255, 89, 89, 0.1);
+}
+.goal-bg {
+  background-color: rgba(255, 244, 214, 1);
 }
