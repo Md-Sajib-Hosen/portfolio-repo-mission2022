@@ -2,29 +2,34 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+/* welcome-section */
+
 .orange-color-text {
   color: #ffad5a;
 }
+
 .link-button {
   text-decoration: none;
-  padding: 5px 20px;
-  color: white;
+  padding        : 5px 20px;
+  color          : white;
 
   background-image: linear-gradient(45deg, lightsalmon, tomato);
 }
+
 .pic {
-  width: 40%;
-}
-.pic img {
-  width: 40%;
+ 
   padding-left: 50px;
+
 }
+
+
 .main-section {
   display: flex;
-  margin: 5%;
+  margin : 5%;
 }
+
 .stay-focused {
-  width: 50%;
+  width     : 50%;
   text-align: justify;
 }
 
@@ -36,58 +41,72 @@ body {
 .illustrator {
   width: 25%;
 }
+
 .mission-section {
   display: flex;
-  margin: 5%;
+  margin : 5%;
 }
+
 .mission-iteams {
-  padding: 20px;
+  padding      : 20px;
   border-radius: 30px;
 
   margin-left: 30px;
-  text-align: justify;
+  text-align : justify;
 }
+
 .mission-bg {
   background-color: rgba(23, 192, 211, 0.418);
 }
+
 .vission-bg {
   background-color: rgba(255, 89, 89, 0.1);
 }
+
 .goal-bg {
   background-color: rgba(255, 244, 214, 1);
 }
+
 /* blog-section */
 
 .blog {
-  display: flex;
-  padding: 5%;
+  display   : flex;
+  padding   : 5%;
   text-align: justify;
 }
+
 .blog img {
-  width: 350px;
+  width        : 350px;
   padding-right: 40px;
 }
+
 .blog-text {
   width: 20%;
 }
+
 .blog-text-2 {
-  width: 30%;
+  width        : 30%;
   padding-right: 30px;
 }
+
 footer {
-  text-align: center;
-  margin-top: 7rem;
+  text-align      : center;
+  margin-top      : 7rem;
   background-color: black;
 }
+
 .mission-color {
   color: white;
 }
+
 .fotter-text {
   color: rgba(217, 219, 225, 1);
 }
 
 .contact-part {
-  background-color: plum;
-  width: 30%;
-  margin: 5%;
+  background-color: rgba(221, 160, 221, 0.61);
+  width           : 30%;
+  margin          : 5%;
+  padding: 10px;
+  border-radius: 10px;
 }
