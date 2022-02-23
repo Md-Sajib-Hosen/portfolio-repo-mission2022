@@ -84,3 +84,9 @@ footer {
 .fotter-text {
   color: rgba(217, 219, 225, 1);
 }
+
+.contact-part {
+  background-color: plum;
+  width: 30%;
+  margin: 5%;
+}
